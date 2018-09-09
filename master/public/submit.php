@@ -27,7 +27,7 @@
     <head>
         <title>URL Shortener</title>
     </head>
-    <body>
+    <body style="background-color: #ff8080; color: #fff">
         <p style="text-align: center; padding:10%">Success! ! !<strong>Your Short URL is:</strong> <a href="$url">$url</a></p>
     </body>
 </html>
